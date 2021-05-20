@@ -1,0 +1,9 @@
+.video-item {
+  display: flex !important;
+  cursor: pointer !important;
+  align-items: center !important;
+}
+
+.video-item img {
+  width: 185px;
+}
